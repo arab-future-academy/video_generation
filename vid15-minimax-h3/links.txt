@@ -1,0 +1,11 @@
+LoRAs
+https://huggingface.co/Kijai/MiniMax-H3_comfy/tree/main/loras
+
+https://huggingface.co/lightx2v/Minimax-h3-Turbo/tree/main
+
+https://huggingface.co/Momoking/MiniMax-H3-Turbo-Lora-ComfyUI/tree/main
+
+
+
+ComfyUI minimax workflows:
+https://docs.comfy.org/tutorials/video/minimax/minimax-h3
